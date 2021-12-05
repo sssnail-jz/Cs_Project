@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_2_库和链接库", "CS_2_库和链接库\CS_2_库和链接库.csproj", "{5AA01DF7-FDD7-4563-89E4-2324FC8E8763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA01DF7-FDD7-4563-89E4-2324FC8E8763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA01DF7-FDD7-4563-89E4-2324FC8E8763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA01DF7-FDD7-4563-89E4-2324FC8E8763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA01DF7-FDD7-4563-89E4-2324FC8E8763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A423A892-92AF-4545-A070-25CB16D04351}
+	EndGlobalSection
+EndGlobal
